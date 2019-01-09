@@ -61,7 +61,7 @@ SDK要求最低API级别为16
 
 ## 用户（已在生产环境使用）
 
-目前已广泛使用的主要厂商，如去哪儿、北工大、便利蜂、新辰航空、爱云动
+目前已广泛使用的主要厂商，如去哪儿、北工大、便利蜂、新晨航空、爱云动
 
 ![architecture](image/qunar.png)![architecture](image/blf.png)![architecture](image/sports.png)![architecture](image/bjgydx.png)![architecture](image/xchk.png)
 
