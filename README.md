@@ -144,6 +144,6 @@ QTalk中数据库组件库
 
 ## 用户（已在生产环境使用）
 
-Qtalk已广泛应用在各行各业的im在线沟通中，如去哪儿、北工大、便利蜂、星辰航空、爱运动
+Qtalk已广泛应用在各行各业的im在线沟通中，如去哪儿、北工大、便利蜂、新辰航空、爱运动
 
 ![architecture](image/qunar.png)![architecture](image/blf.png)![architecture](image/sports.png)![architecture](image/bjgydx.png)![architecture](image/xchk.png)
