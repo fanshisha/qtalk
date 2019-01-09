@@ -31,8 +31,9 @@ Startalk 前身是去哪儿的Qtalk，已在Qunar稳定运行3年多。
 ## 部署环境要求
 -   [后端](https://github.com/qunarcorp/ejabberd-open)服务器centos 7(未来会支持ubuntu,以及各种私有云)
 -   [ios SDK](https://github.com/qunarcorp/imsdk-ios)  最低支持iOS9系统
--   最低[Android SDK](https://github.com/qunarcorp/imsdk-android)：QTalk SDK要求最低API级别为16
--   编译[Android SDK](https://github.com/qunarcorp/imsdk-android)：QTalk SDK要求您针对API 26或更高版本进行编译
+-   最低[Android SDK](https://github.com/qunarcorp/imsdk-android)：
+SDK要求最低API级别为16
+-   编译[Android SDK](https://github.com/qunarcorp/imsdk-android)： SDK要求您针对API 26或更高版本进行编译
 -   其他平台均可使用C++14进行编译。界面是[qt](https://qt.io/)
 
 ### 看到这里，您现在可能已经希望测试一番了。。。
@@ -60,7 +61,7 @@ Startalk 前身是去哪儿的Qtalk，已在Qunar稳定运行3年多。
 
 ## 用户（已在生产环境使用）
 
-Qtalk已广泛应用在各行各业的im在线沟通中，如去哪儿、北工大、便利蜂、新辰航空、爱运动
+目前已广泛使用的主要厂商，如去哪儿、北工大、便利蜂、新辰航空、爱云动
 
 ![architecture](image/qunar.png)![architecture](image/blf.png)![architecture](image/sports.png)![architecture](image/bjgydx.png)![architecture](image/xchk.png)
 
