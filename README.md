@@ -2,7 +2,7 @@
 [English Version](https://github.com/qunarcorp/qtalk/blob/master/README.en.md)
 
 
-# Startalk(星语)——一站式通信解决方案
+# Startalk(星语)——通用通信解决方案
 
 沟通是人类最基础的需求——《人类简史》
 
