@@ -2,6 +2,9 @@
 
 Qtalk的目标是成为一款高性能的企业级im套件。在Qunar稳定运行3年多，同时为去哪儿网内部企业办公和商家tob业务，用户端提供的售前及售后咨询
 
+Qtalk is a high performance full platform enterprise level instant message software. It had been support qunar.com over 3 years for different customers, both internal and external communication supported. 
+Qtalk support plugin style module extension, like office automation, customer care, imbedded into the other Apps etc.
+
 # 我们的使用场景
 * 办公自动化OA
 * 商业企业客服系统
