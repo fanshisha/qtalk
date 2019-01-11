@@ -1,5 +1,16 @@
 
-[English Version](https://github.com/qunarcorp/qtalk/blob/master/README.en.md)
+Startalk, 应该是世界上最好的开源im系统级解决方案。
+
+* [English Version](https://github.com/qunarcorp/qtalk/blob/master/README.en.md)
+* [Startalk是啥](#Startalk(星语)——通用通信解决方案)
+* [我们的使用场景](#我们的使用场景)
+* [系统特性](#系统特性)
+* [系统特殊特性](#系统自有特点)
+* [如何使用？](#如何使用？)
+  * [部署环境要求](# 部署环境要求)
+  * [快速开始](# 快速开始)
+  * [官方网站](https://im.qunar.com/new/)
+* 已有用户(#已有用户)
 
 
 # Startalk(星语)——通用通信解决方案
@@ -26,11 +37,19 @@ Startalk 前身是去哪儿的Qtalk，已在Qunar稳定运行3年多。
 ```comment
 我们正在逐步把工作重心从公司git转移到github上，希望可以为大家提供更稳定持久的服务。
 ```
-* 我们推荐私有化部署
+* 只推荐私有化部署
 
 ```comment
-企业有私有化部署的理由和需求，我们也是希望帮助企业甚至团体在满足高效沟通和足够的扩展性上提供尽可能多的帮助。
+企业有私有化部署的理由和需求，我们是希望帮助企业甚至团体在满足高效沟通和足够的扩展性上提供尽可能多的帮助。
 ```
+
+# 如何使用？
+
+我们可以这样来开始使用Startalk...
+
+* join to [public services](https://im.qunar.com/new/#/regist).
+* private service [deployment](https://github.com/qunarcorp/ejabberd-open#startalk-ejabberd).
+
 
 ## 部署环境要求
 -   [后端](https://github.com/qunarcorp/ejabberd-open)服务器centos 7(未来会支持ubuntu,以及各种私有云)
@@ -63,7 +82,7 @@ SDK要求最低API级别为16
 * 支持全平台接入；
 * 采用去中心化设计。支持私有云或公有云部署
 
-## 用户（已在生产环境使用）
+## 已有用户
 
 目前已广泛使用的主要厂商，如去哪儿、北工大、便利蜂、新晨航空、爱云动
 
