@@ -1,5 +1,5 @@
 
-Startalk, 应该是世界上最好的开源im系统级解决方案。
+Startalk是世界上最好的开源im系统级解决方案!
 
 * [English Version](https://github.com/qunarcorp/qtalk/blob/master/README.en.md)
 * [Startalk是啥](#Startalk(星语)——通用通信解决方案)
