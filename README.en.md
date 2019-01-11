@@ -3,8 +3,8 @@ Startalk, The Best open sourced instant messenger software in the world!
 * [what is Startalk](#Startalk)
 * [usage scenario](#usage-scenario)
 * [How To Use](#How-To-Use)
-  * Desktop Apps(#Desktop-Apps)
-  * Moible Apps(#Mobile-Apps)
+  * [Desktop Apps](#Desktop-Apps)
+  * [Moible Apps](#Mobile-Apps)
 
 # Startalk
 
