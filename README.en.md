@@ -1,5 +1,9 @@
 
-
+* [what is Startalk](#Startalk)
+* [usage scenario](#usage scenario)
+* [How To Use](#How To Use)
+  * Desktop Apps(#Desktop Apps)
+  * Moible Apps(#Mobile Apps)
 
 # Startalk
 The Best open sourced instant messenger software in the world!
@@ -16,6 +20,10 @@ Startalk support plugin style module extension, like office automation, customer
 
 # Desktop Apps
 
-Download the Native Cross-Platform Desktop Application at 
+Download the Native Cross-Platform Desktop Application at :
+
+[Windows 32bit](https://qt.qunarzz.com/downloads/qtalk_setup.exe)
+[Windows 64bit](https://qt.qunarzz.com/downloads/qtalk_setupx64.exe)
+[Mac OS](https://qt.qunar.com/download/qtalk_mac.dmg)
 
 # Mobile Apps
