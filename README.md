@@ -7,9 +7,9 @@ Startalk, 应该是世界上最好的开源im系统级解决方案。
 * [系统特性](#系统特性)
 * [系统特殊特性](#系统自有特点)
 * [如何使用？](#如何使用？)
-  * [部署环境要求](# 部署环境要求)
-  * [快速开始](# 快速开始)
-  * [官方网站](https://im.qunar.com/new/)
+  * [部署环境要求](#部署环境要求)
+  * [快速开始](#快速开始)
+  * [官方网站](#https://im.qunar.com/new/)
 * 已有用户(#已有用户)
 
 
@@ -45,10 +45,11 @@ Startalk 前身是去哪儿的Qtalk，已在Qunar稳定运行3年多。
 
 # 如何使用？
 
-我们可以这样来开始使用Startalk...
+Startalk基于私有化部署。这导致了startalk的登录过程会略显复杂。
+但是没关系，Startalk团队致力于把im系统设计门槛降低到很低的同时，也致力于降低首次接入时的成本。
 
-* join to [public services](https://im.qunar.com/new/#/regist).
-* private service [deployment](https://github.com/qunarcorp/ejabberd-open#startalk-ejabberd).
+* 如果希望加入[公共域](https://im.qunar.com/new/#/regist).
+* 直接开始[私有化部署!](https://github.com/qunarcorp/ejabberd-open#startalk-ejabberd).
 
 
 ## 部署环境要求
@@ -82,7 +83,7 @@ SDK要求最低API级别为16
 * 支持全平台接入；
 * 采用去中心化设计。支持私有云或公有云部署
 
-## 已有用户
+# 已有用户
 
 目前已广泛使用的主要厂商，如去哪儿、北工大、便利蜂、新晨航空、爱云动
 
