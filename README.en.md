@@ -1,10 +1,12 @@
 Startalk, The Best open sourced instant messenger software in the world!
 
-* [what is Startalk](#Startalk)
-* [usage scenario](#usage-scenario)
+* [What is Startalk](#Startalk)
+* [Usage scenario](#usage-scenario)
 * [How To Use](#How-To-Use)
   * [Desktop Apps](#Desktop-Apps)
   * [Moible Apps](#Mobile-Apps)
+  * [Deployment](#Deployment)
+  
 
 # Startalk
 
@@ -41,3 +43,9 @@ Download the Native Cross-Platform Desktop Application at :
 - Android
 
 [![Startalk on Android](https://s.qunarzz.com/qtalk_official_web/pages/download/android.png)](https://qt.qunar.com/downloads/qtalk_android.apk)
+
+# Deployment
+You can Deploy your minimizing services like [this](https://github.com/qunarcorp/ejabberd-open#%E5%AE%89%E8%A3%85)
+
+## Account system
+
