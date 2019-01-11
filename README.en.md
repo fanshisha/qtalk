@@ -13,3 +13,9 @@ Startalk support plugin style module extension, like office automation, customer
 -  OA
 -  customer chat system
 -  chat SDK
+
+# Desktop Apps
+
+Download the Native Cross-Platform Desktop Application at 
+
+# Mobile Apps
