@@ -1,7 +1,9 @@
 Startalk, The Best open sourced instant messenger software in the world!
 
+* [中文版本](https://github.com/qunarcorp/qtalk/blob/master/README.md)
 * [What is Startalk](#Startalk)
 * [Usage scenario](#usage-scenario)
+* [System characteristics](#System-characteristics)
 * [How To Use](#How-To-Use)
   * [Desktop Apps](#Desktop-Apps)
   * [Moible Apps](#Mobile-Apps)
@@ -19,12 +21,32 @@ Startalk support plugin style module extension, like office automation, customer
 -  customer chat system
 -  chat SDK
 
+# System characteristics
+
 # How To Use
 
-There are several ways you can join Startalk.
+Startalk focuses on privatization based deployments. This caused Startalk's login looks more complicated. But it doesn't matter, the Startalk team is working to reduce the im system design threshold to a very low level, while also working to reduce the cost of the first use.
 
-* join to [public services](https://im.qunar.com/new/#/regist).
-* private service [deployment](https://github.com/qunarcorp/ejabberd-open#startalk-ejabberd).
+Usually, when we got a software, it will be divided into three steps:
+
+* Download the apps
+* Make some settings according to official requirements
+* Registered account & Login
+
+Because, privatized deployment is Recommended, the server side software also needs to be deployed in its your company, which makes the access step a four-step process:
+
+* Download app
+* Deploy background system (the difference)
+* Make some settings for the client through the server side configuration
+* Import your accounts & login
+
+If you really need privatization deployments, but don't want to have some investment and cost in the early stage, consider and make a trial or temporary stay in our public environment:
+
+* Join our [public domain](https://im.qunar.com/new/#/regist)
+
+When you have decided to building a privatization deployment, or decide to migrate data from our public environment to your private environment:
+
+* Start your [privatization deployment!](https://github.com/qunarcorp/ejabberd-open#startalk-ejabberd)
 
 ## Desktop Apps
 
