@@ -1,6 +1,6 @@
 Startalk, The Best open sourced instant messenger software in the world!
 
-* [中文版本](https://github.com/qunarcorp/qtalk/blob/master/README.md)
+* [Chinese Version](https://github.com/qunarcorp/qtalk/blob/master/README.md)
 * [What is Startalk](#Startalk)
 * [Usage scenario](#usage-scenario)
 * [System characteristics](#System-characteristics)
